@@ -1,8 +1,8 @@
 ## Hi there, I'm Kiran vaddi. 👋
 
-### I'm a Software Engineer with 
+### I'm a Software Engineer and passionate on devlopment 
 - 🔭 I’m currently working as a Software Engineer at EPAM Systems.
-- 🌱 I’m currently learning Enterprise Mobile Development and Cloud.
+- 🌱 I’m currently learning Enterprise Web and Mobile Development.
 - 🥅 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to cook.
 
@@ -43,6 +43,7 @@
 
 [<img align="left" alt="kiranvaddi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="Jaspreet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vaddisiva5034&show_icons=true&hide_border=true" />
+[![kirans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaddisiva5034)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://linkedin.com/in/kiran-vaddi-860b61139
