@@ -1,16 +1,48 @@
-### Hi there 👋
+## Hi there, I'm Kiran vaddi. 👋
 
-<!--
-**vaddisiva5034/vaddisiva5034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer with 
+- 🔭 I’m currently working as a Software Engineer at EPAM Systems.
+- 🌱 I’m currently learning Enterprise Mobile Development and Cloud.
+- 🥅 Goals: Start contributing to Open Source projects.
+- ⚡ Fun fact: I love to cook.
 
-Here are some ideas to get you started:
+## Skills
+### Programming Languages
+* Javascript
+* Java
+* C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+* React
+* Angular.js
+* React Native
+* Node.js
+* Express.js
+* ASP.NET (MVC)
+* Node.js
+
+### Databases
+* MySQL
+* MS-SQL
+* Mongo DB
+### Tools and IDEs
+* Android Studio
+* Visual Studio
+* VS Code
+* Eclipse
+* IntelliJ
+### Miscellaneous
+* REST APIs
+* OOPS
+* Data Structures and Algorithms
+* Git and Github
+* Azure devops
+* Aws ec2
+
+### Connect with me:
+
+[<img align="left" alt="kiranvaddi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<img align="left" alt="Jaspreet's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vaddisiva5034&show_icons=true&hide_border=true" />
+
+[linkedin]: https://linkedin.com/in/kiran-vaddi-860b61139
