@@ -1,7 +1,7 @@
 ## Hi there, I'm Kiran vaddi. 👋
 
 ### I'm a Software Engineer and passionate on devlopment 
-- 🔭 I’m currently working as a Software Engineer at EPAM Systems.
+- 🔭 I’m currently working as a Software Engineer at Service now.
 - 🌱 I’m currently learning Enterprise Web and Mobile Development.
 - 🥅 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to cook.
