@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer focused on buil
 
 - **Current Role**: Software Engineer at ServiceNow
 - **Specialization**: Frontend development with React and Angular, with backend experience in Node.js
-- **Experience**: 6+ years in web development, building and scaling applications with a customer-centric approach
+- **Experience**: 5+ years in web development, building and scaling applications with a customer-centric approach
 
 ---
 
